@@ -1,7 +1,7 @@
 # parameters
-ARG PROJECT_NAME
-ARG PROJECT_DESCRIPTION
-ARG PROJECT_MAINTAINER
+ARG "lab1-project"
+ARG "my first Duckietown project"
+ARG "Sariah McIntyre (sariahm@byu.edu)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG PROJECT_ICON="cube"
 ARG PROJECT_FORMAT_VERSION
