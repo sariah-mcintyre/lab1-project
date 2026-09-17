@@ -1,7 +1,7 @@
 # parameters
-ARG "lab1-project"
-ARG "my first Duckietown project"
-ARG "Sariah McIntyre (sariahm@byu.edu)"
+ARG REPO_NAME="<REPO_NAME_HERE>"
+ARG DESCRIPTION="<DESCRIPTION_HERE>"
+ARG MAINTAINER="<YOUR_FULL_NAME> (<YOUR_EMAIL_ADDRESS>)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG PROJECT_ICON="cube"
 ARG PROJECT_FORMAT_VERSION
